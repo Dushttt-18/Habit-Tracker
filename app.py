@@ -23,7 +23,7 @@ html, body, [class*="css"] {
 
 /* Background */
 .stApp {
-    background-color: #0f1117;
+    background-color: #ccf5c6;
 }
 
 /* Sidebar */
